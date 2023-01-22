@@ -1,0 +1,6 @@
+/storemanagementbackend/.mvn
+/storemanagementbackend/.settings
+/storemanagementbackend/target
+
+*.png
+
